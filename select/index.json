@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "桃花朵朵開",
+  "base_artist": "阿牛",
+  "createdAt": "2026-03-24T15:10:16.873580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桃花朵朵開",
+      "artist": "阿牛",
+      "has_synced": true,
+      "path": "select/01_桃花朵朵開_阿牛.lrc"
+    }
+  ]
+}
